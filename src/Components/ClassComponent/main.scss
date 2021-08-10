@@ -1,0 +1,20 @@
+.counter{  
+    padding-top: 5rem;
+    font-size: 2rem;
+}
+.counter .counter__title{
+    font-size: 2rem;
+    padding-bottom: 3rem;
+}
+.couter-group{
+    display: flex;
+    justify-content: center; 
+}
+.couter__minus, .couter__plus{
+    font-size: 3rem;
+    width: 6rem;
+}
+.couter__number{
+    padding: 0 3rem;
+    font-size: 3rem;
+}
